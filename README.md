@@ -1,7 +1,7 @@
 # Awesome HTML5 games list:
 ## Ads Free HTML5 games for your websites:
 
-Here is the list of ads free HTML5 games for your website. you can embed this ad free games into your website. 
+Here is the list of ads free HTML5 games for your website. you can embed this ad free games into your website. For more info see [Friv](https://www.friv4school.io) games
 
 ### 1. Baseball Match
 
