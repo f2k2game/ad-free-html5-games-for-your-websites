@@ -378,18 +378,7 @@ Here is the list of ads free HTML5 games for your website. you can embed this ad
 | Image URL 2 | https://www.friv4school.io/g/images/candy-jelly-bean/icon.png |
 | EMBED CODE | ```<iframe src="https://www.friv4school.io/g/candy-jelly-bean" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
 
-### 35. Candy Match
-
-> <img width="100" src ="https://www.friv4school.io/g/images/candy-match/icon.png"> 
-
-| Game Name | Candy Match |
-|:--|:-|
-| Game URL | https://www.friv4school.io/g/candy-match |
-| Image URL 1 | https://www.friv4school.io/g/images/candy-match/icon-x.png |
-| Image URL 2 | https://www.friv4school.io/g/images/candy-match/icon.png |
-| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/candy-match" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
-
-### 36. Cards Memory Match
+### 35. Cards Memory Match
 
 > <img width="100" src ="https://www.friv4school.io/g/images/cards-memory-match/icon.png"> 
 
@@ -400,7 +389,7 @@ Here is the list of ads free HTML5 games for your website. you can embed this ad
 | Image URL 2 | https://www.friv4school.io/g/images/cards-memory-match/icon.png |
 | EMBED CODE | ```<iframe src="https://www.friv4school.io/g/cards-memory-match" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
 
-### 37. Skull Shooter
+### 36. Skull Shooter
 
 > <img width="100" src ="https://www.friv4school.io/g/images/skull-shooter/icon.png"> 
 
@@ -411,7 +400,7 @@ Here is the list of ads free HTML5 games for your website. you can embed this ad
 | Image URL 2 | https://www.friv4school.io/g/images/skull-shooter/icon.png |
 | EMBED CODE | ```<iframe src="https://www.friv4school.io/g/skull-shooter" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
 
-### 38. Crazy Ninja Rush
+### 37. Crazy Ninja Rush
 
 > <img width="100" src ="https://www.friv4school.io/g/images/crazy-ninja-rush/icon.png"> 
 
@@ -422,7 +411,7 @@ Here is the list of ads free HTML5 games for your website. you can embed this ad
 | Image URL 2 | https://www.friv4school.io/g/images/crazy-ninja-rush/icon.png |
 | EMBED CODE | ```<iframe src="https://www.friv4school.io/g/crazy-ninja-rush" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
 
-### 39. Lets Fish
+### 38. Lets Fish
 
 > <img width="100" src ="https://www.friv4school.io/g/images/lets-fish/icon.png"> 
 
@@ -433,7 +422,7 @@ Here is the list of ads free HTML5 games for your website. you can embed this ad
 | Image URL 2 | https://www.friv4school.io/g/images/lets-fish/icon.png |
 | EMBED CODE | ```<iframe src="https://www.friv4school.io/g/lets-fish" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
 
-### 40. Witch Run
+### 39. Witch Run
 
 > <img width="100" src ="https://www.friv4school.io/g/images/witch-run/icon.png"> 
 
@@ -444,7 +433,7 @@ Here is the list of ads free HTML5 games for your website. you can embed this ad
 | Image URL 2 | https://www.friv4school.io/g/images/witch-run/icon.png |
 | EMBED CODE | ```<iframe src="https://www.friv4school.io/g/witch-run" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
 
-### 41. Car Race
+### 40. Car Race
 
 > <img width="100" src ="https://www.friv4school.io/g/images/car-race/icon.png"> 
 
