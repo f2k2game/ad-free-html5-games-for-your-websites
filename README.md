@@ -334,4 +334,125 @@ Here is the list of ads free HTML5 games for your website. you can embed this ad
 | Image URL 2 | https://www.friv4school.io/g/images/boy-adventurer/icon.png |
 | EMBED CODE | ```<iframe src="https://www.friv4school.io/g/boy-adventurer" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
 
+### 31. Catty Adventure
+
+> <img width="100" src ="https://www.friv4school.io/g/images/catty-adventure/icon.png"> 
+
+| Game Name | Catty Adventure |
+|:--|:-|
+| Game URL | https://www.friv4school.io/g/catty-adventure |
+| Image URL 1 | https://www.friv4school.io/g/images/catty-adventure/icon-x.png |
+| Image URL 2 | https://www.friv4school.io/g/images/catty-adventure/icon.png |
+| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/catty-adventure" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
+
+### 32. Monkey Block
+
+> <img width="100" src ="https://www.friv4school.io/g/images/monkey-block/icon.png"> 
+
+| Game Name | Monkey Block |
+|:--|:-|
+| Game URL | https://www.friv4school.io/g/monkey-block |
+| Image URL 1 | https://www.friv4school.io/g/images/monkey-block/icon-x.png |
+| Image URL 2 | https://www.friv4school.io/g/images/monkey-block/icon.png |
+| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/monkey-block" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
+
+### 33. Planet Attack
+
+> <img width="100" src ="https://www.friv4school.io/g/images/planet-attack/icon.png"> 
+
+| Game Name | Planet Attack |
+|:--|:-|
+| Game URL | https://www.friv4school.io/g/planet-attack |
+| Image URL 1 | https://www.friv4school.io/g/images/planet-attack/icon-x.png |
+| Image URL 2 | https://www.friv4school.io/g/images/planet-attack/icon.png |
+| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/planet-attack" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
+
+### 34. Candy Jelly Bean
+
+> <img width="100" src ="https://www.friv4school.io/g/images/candy-jelly-bean/icon.png"> 
+
+| Game Name | Candy Jelly Bean |
+|:--|:-|
+| Game URL | https://www.friv4school.io/g/candy-jelly-bean |
+| Image URL 1 | https://www.friv4school.io/g/images/candy-jelly-bean/icon-x.png |
+| Image URL 2 | https://www.friv4school.io/g/images/candy-jelly-bean/icon.png |
+| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/candy-jelly-bean" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
+
+### 35. Candy Match
+
+> <img width="100" src ="https://www.friv4school.io/g/images/candy-match/icon.png"> 
+
+| Game Name | Candy Match |
+|:--|:-|
+| Game URL | https://www.friv4school.io/g/candy-match |
+| Image URL 1 | https://www.friv4school.io/g/images/candy-match/icon-x.png |
+| Image URL 2 | https://www.friv4school.io/g/images/candy-match/icon.png |
+| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/candy-match" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
+
+### 36. Cards Memory Match
+
+> <img width="100" src ="https://www.friv4school.io/g/images/cards-memory-match/icon.png"> 
+
+| Game Name | Cards Memory Match |
+|:--|:-|
+| Game URL | https://www.friv4school.io/g/cards-memory-match |
+| Image URL 1 | https://www.friv4school.io/g/images/cards-memory-match/icon-x.png |
+| Image URL 2 | https://www.friv4school.io/g/images/cards-memory-match/icon.png |
+| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/cards-memory-match" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
+
+### 37. Skull Shooter
+
+> <img width="100" src ="https://www.friv4school.io/g/images/skull-shooter/icon.png"> 
+
+| Game Name | Skull Shooter |
+|:--|:-|
+| Game URL | https://www.friv4school.io/g/skull-shooter |
+| Image URL 1 | https://www.friv4school.io/g/images/skull-shooter/icon-x.png |
+| Image URL 2 | https://www.friv4school.io/g/images/skull-shooter/icon.png |
+| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/skull-shooter" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
+
+### 38. Crazy Ninja Rush
+
+> <img width="100" src ="https://www.friv4school.io/g/images/crazy-ninja-rush/icon.png"> 
+
+| Game Name | Crazy Ninja Rush |
+|:--|:-|
+| Game URL | https://www.friv4school.io/g/crazy-ninja-rush |
+| Image URL 1 | https://www.friv4school.io/g/images/crazy-ninja-rush/icon-x.png |
+| Image URL 2 | https://www.friv4school.io/g/images/crazy-ninja-rush/icon.png |
+| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/crazy-ninja-rush" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
+
+### 39. Lets Fish
+
+> <img width="100" src ="https://www.friv4school.io/g/images/lets-fish/icon.png"> 
+
+| Game Name | Lets Fish |
+|:--|:-|
+| Game URL | https://www.friv4school.io/g/lets-fish |
+| Image URL 1 | https://www.friv4school.io/g/images/lets-fish/icon-x.png |
+| Image URL 2 | https://www.friv4school.io/g/images/lets-fish/icon.png |
+| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/lets-fish" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
+
+### 40. Witch Run
+
+> <img width="100" src ="https://www.friv4school.io/g/images/witch-run/icon.png"> 
+
+| Game Name | Witch Run |
+|:--|:-|
+| Game URL | https://www.friv4school.io/g/witch-run |
+| Image URL 1 | https://www.friv4school.io/g/images/witch-run/icon-x.png |
+| Image URL 2 | https://www.friv4school.io/g/images/witch-run/icon.png |
+| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/witch-run" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
+
+### 41. Car Race
+
+> <img width="100" src ="https://www.friv4school.io/g/images/car-race/icon.png"> 
+
+| Game Name | Car Race |
+|:--|:-|
+| Game URL | https://www.friv4school.io/g/car-race |
+| Image URL 1 | https://www.friv4school.io/g/images/car-race/icon-x.png |
+| Image URL 2 | https://www.friv4school.io/g/images/car-race/icon.png |
+| EMBED CODE | ```<iframe src="https://www.friv4school.io/g/car-race" width="800" height="600" scrolling="none" frameborder="0"></iframe>```|
+
 
